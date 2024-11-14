@@ -1,1 +1,2 @@
-bitnami/etcd:3.5.7
+prom/prometheus:v3.0.0-rc.0
+prom/prometheus:v2.53.3
