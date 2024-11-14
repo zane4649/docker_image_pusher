@@ -1,2 +1,1 @@
-prom/prometheus:v3.0.0-rc.0
-prom/prometheus:v2.53.3
+prom/alertmanager:v0.27.0
