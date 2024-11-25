@@ -1,1 +1,1 @@
-alpine:latest
+python:3.12.4-alpine
