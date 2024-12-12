@@ -1,1 +1,1 @@
-python:3.12-alpine
+openresty/openresty:1.19.9.1-14-centos7
