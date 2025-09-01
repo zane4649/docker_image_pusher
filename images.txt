@@ -1,1 +1,1 @@
-python:3.6-alpine
+golang:1.24.0
