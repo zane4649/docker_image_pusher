@@ -1,1 +1,1 @@
-xpzouying/xiaohongshu-mcp
+xpzouying/xiaohongshu-mcp:latest
